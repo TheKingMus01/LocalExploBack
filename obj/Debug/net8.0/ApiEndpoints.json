@@ -1,0 +1,22 @@
+[
+  {
+    "ContainingType": "WebApplication1.Controllers.LocalExplorerController",
+    "Method": "GetChatResponse",
+    "RelativePath": "api/LocalExplorer/ActivitySuggestions",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApplication1.Controllers.LocalExplorerController",
+    "Method": "GetGeolocation",
+    "RelativePath": "api/LocalExplorer/geolocation",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
